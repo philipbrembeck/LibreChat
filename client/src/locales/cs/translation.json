@@ -1,4 +1,5 @@
 {
+  "chat_direction_right_to_left": "něco sem musí přijít. bylo prázdné",
   "com_a11y_ai_composing": "AI stále tvoří odpověď.",
   "com_a11y_end": "AI dokončila svou odpověď.",
   "com_a11y_start": "AI začala tvořit odpověď.",
@@ -45,6 +46,7 @@
   "com_assistants_domain_info": "Asistent poslal tyto informace: {{0}}",
   "com_assistants_file_search": "Vyhledávání souborů",
   "com_assistants_file_search_info": "Vyhledávání souborů umožňuje asistentovi pracovat se znalostmi z nahraných souborů. Jakmile je soubor nahrán, asistent automaticky rozhodne, kdy získat jeho obsah na základě požadavků uživatelů. Připojování vektorových úložišť pro vyhledávání není zatím podporováno.",
+  "com_assistants_knowledge": "Znalost",
   "com_auth_already_have_account": "Už máte účet?",
   "com_auth_apple_login": "Přihlásit se přes Apple",
   "com_auth_back_to_login": "Zpět k přihlášení",
@@ -270,8 +272,6 @@
   "com_nav_lang_chinese": "中文",
   "com_nav_lang_dutch": "Nederlands",
   "com_nav_lang_english": "English",
-  "com_nav_lang_estonian": "Eesti keel",
-  "com_nav_lang_persian": "فارسی",
   "com_nav_lang_french": "Français ",
   "com_nav_lang_german": "Deutsch",
   "com_nav_lang_italian": "Italiano",
